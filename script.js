@@ -3730,11 +3730,11 @@ function animateWorld() {
   */
 
   galaxy.rotation.y +=
-    .00022;
+    .00065;
 
 
   galaxy.rotation.z +=
-    .000028;
+    .00008;
 
 
   /*
